@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rememberall\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-14 07:07+0000\n"
+"PO-Revision-Date: 2022-09-16 08:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: rememberall"
+
+#. Description of the plugin
+msgid "Daily email report if updates are available."
+msgstr "Täglicher E-Mail-Bericht, wenn Updates verfügbar sind."
+
+#: admin/class-rememberall-admin.php:79
+msgid "On your site: "
+msgstr "Auf Ihrer Website: "
+
+#. Name of the plugin
+msgid "rememberall"
+msgstr "rememberall"
+
+#. Author of the plugin
+msgid "Rene L"
+msgstr "Rene L"
+
+#: admin/class-rememberall-admin.php:82
+msgid "There are updates available on your site: "
+msgstr "Auf Ihrer Website sind Updates verfügbar: "
+
+#: admin/class-rememberall-admin.php:73
+msgid "There are updates available: <br><br>"
+msgstr "Es sind Updates verfügbar: <br><br>"
+
+#. Author URI of the plugin
+msgid "www.wp-news.de"
+msgstr "www.wp-news.de"
